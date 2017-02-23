@@ -1962,38 +1962,6 @@ background-color: rgba(255, 112, 0, 0.80);
     padding-bottom:15px;
     display:block;
 }
-.server {
-    /* text-transform:uppercase; */
-	color:#F90;
-    margin-bottom:5px;
-    margin-top:3px;
-    font-weight:bold;
-}
-.ep {
-    cursor:pointer;
-	color:#FFF!important;
-    font-weight:bold;
-    margin: 1px;
-	padding: 8px;
-    float:left;
-    background-color:#616161;
-}
-.episodelist .active {
-    color: #FFF!important;
-    font-weight: bold;
-    margin: 1px;
-    padding: 8px;
-    float: left;
-    background-color: #00ADDE!important;
-}
-
-.episodelist .ep:visited {
-    background-color: #245247;
-}
-
-.episodelist .ep:hover {
-    background-color:#F90;
-}
 
 .info-panel {
 	text-overflow: ellipsis;
